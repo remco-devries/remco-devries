@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remco-devries
-- 👀 I’m interested in stocks, travel, programming, biocience, technology, reading, learning
+- 👀 I’m interested in stocks, travel, programming, bioscience, technology, reading, learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me quittungen#outlook.com
